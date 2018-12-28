@@ -1,0 +1,21 @@
+{
+  "name":"hello",
+  "value":"world",
+  "Users":[
+    {"userId":"1","userName":"su","passWord":"123"},
+    {"userId":"2","userName":"susu","passWord":"123"}
+  ],
+  "Category":[
+    {"cId":"001","cName":"cone"},
+    {"cId":"002","cName":"ctwo"},
+    {"cId":"003","cName":"cthree"}
+  ],
+  "Products":[
+    {"pId":"00001","pName":"p1","category":"cone"},
+    {"pId":"00002","pName":"p2","category":"cone"},
+    {"pId":"00003","pName":"p3","category":"ctwo"},
+    {"pId":"00004","pName":"p4","category":"ctwo"},
+    {"pId":"00005","pName":"p5","category":"cthree"},
+    {"pId":"00006","pName":"p6","category":"cthree"}
+  ]
+}
